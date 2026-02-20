@@ -1,4 +1,4 @@
-# Ramadan 2026 Calendar & Fasting Tracker 🌙
+# Ramadan 2026 Calendar Pro 🌛
 
 A simple and clean Ramadan fasting tracker app built with Flutter.
 
